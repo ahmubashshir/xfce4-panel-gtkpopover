@@ -1,0 +1,11 @@
+[Xfce Panel]
+Type=X-XFCE-PanelPlugin
+Encoding=UTF-8
+Name=GtkPopover Applet
+Icon=stock_smiley-1
+Comment=GtkPopover Applet for xfce4-panel
+X-XFCE-Unique=true
+X-XFCE-Module=popover
+X-XFCE-Internal=false
+X-XFCE-API=2.0
+
